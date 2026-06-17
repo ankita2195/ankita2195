@@ -19,17 +19,17 @@
 
 ## 🧠 About Me
 
-> *"Most analysts have the tools. Fewer understand the business behind the numbers. I bring both."*
+> *Most analysts have the tools. Fewer understand the business behind the numbers. I bring both.*
 
 I'm **Ankita**, a **2024 Commerce graduate turned Data Analyst** with hands-on experience turning messy, large-scale datasets into decisions that actually move the needle.
 
-What sets me apart isn't just knowing Python or Power BI - it's the ability to **think like a business stakeholder** while working like a data professional. I ask *why* the metric is falling before I reach for a chart, and I communicate findings in plain language that non-technical teams can act on.
+What sets me apart isn't just knowing Python or Power BI, it's the ability to **think like a business stakeholder** while working like a data professional. I ask *why* the metric is falling before I reach for a chart and I communicate findings in plain language that non-technical teams can act on.
 
 - 🔍 Processed **500K+ retail transactions** during my internship at Internship Studio
 - 📊 Built end-to-end analytics pipelines: data cleaning → EDA → segmentation → forecasting → dashboards
 - 🎯 Applied **RFM segmentation**, **cohort analysis**, and **time-series forecasting** to real business problems
-- 💡 Strong foundation in **business acumen** from a B.Com (Hons.) background- I understand P&L, customer economics, and growth metrics
-- 🤝 Clear communicator- I translate data into stories for stakeholders, not just slides
+- 💡 Strong foundation in **business acumen** from a B.Com (Hons.) background. I understand P&L, customer economics, and growth metrics
+- 🤝 Clear communicator; I translate data into stories for stakeholders, not just slides
 
 💼 **Open to Work- Data / Business / Marketing Analyst Roles**
 
@@ -38,7 +38,7 @@ What sets me apart isn't just knowing Python or Power BI - it's the ability to *
 ## 🎯 Current Focus
 
 ```text
-🔨 Building     →  End-to-end analytics projects (Data Cleaning + EDA + Dashboards)
+🔨 Building     →  End-to-end industry relevant analytics projects (Data Cleaning + EDA + Dashboards)
 📚 Learning     →  Advanced SQL, Statistics for A/B Testing, Data Engineering Basics
 🌱 Exploring    →  Marketing Analytics, Forecasting and Automation
 ```
@@ -82,7 +82,7 @@ What sets me apart isn't just knowing Python or Power BI - it's the ability to *
 
 **Impact:** Revealed strategic growth opportunities and enabled data-driven decision-making across marketing, inventory planning, and customer retention.
 
-**Stack:**
+**Tools used:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -96,10 +96,10 @@ What sets me apart isn't just knowing Python or Power BI - it's the ability to *
 ### 🏪 2. Retail Growth & Retention Analysis | Python & Power BI
 > *Diagnosing a silent customer churn crisis with data*
 
-**The Problem:** A retail business had seemingly stable revenue — but was bleeding customers without realising it.
+**The Problem:** A retail business had seemingly stable revenue but was bleeding customers without realising it.
 
 **What I Did:**
-- Identified **stable monthly revenue (₹170K–180K)** masking a deeper retention problem
+- Identified **stable monthly revenue (₹170K-180K)** masking a deeper retention problem
 - Uncovered **91% customer inactivity rate** and **87% disengagement among high-value customers**
 - Analysed sales trends, customer behaviour, and cohort retention end-to-end
 - Built an **interactive 3-page Power BI dashboard** to visualise the findings for stakeholders
@@ -107,7 +107,7 @@ What sets me apart isn't just knowing Python or Power BI - it's the ability to *
 
 **Impact:** Gave the business a clear picture of *where* value was being lost and *how* to win it back.
 
-**Stack:**
+**Tools used:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -118,9 +118,9 @@ What sets me apart isn't just knowing Python or Power BI - it's the ability to *
 
 ## 💼 Experience
 
-### 📌 Data Analyst Intern — Internship Studio *(3 Months)*
+### 📌 Data Analyst Intern: Internship Studio *(3 Months)*
 
-> Working on real-world retail data at scale — not toy datasets.
+> Working on real-world retail data at scale.
 
 | What I Did | Impact |
 |---|---|
@@ -140,7 +140,7 @@ What sets me apart isn't just knowing Python or Power BI - it's the ability to *
 | 🏅 Excel Skills Job Simulation | JPMorgan Chase & Co. (Forage) | Industry Simulation |
 | 🏅 SQL (Advanced) | HackerRank | Verified Skill Badge |
 
-> 💡 *Deloitte & JPMorgan simulations involve solving real business problems — not just watching videos.*
+> 💡 *Deloitte & JPMorgan simulations involve solving real business problems, not just watching videos.*
 
 ---
 
@@ -148,7 +148,7 @@ What sets me apart isn't just knowing Python or Power BI - it's the ability to *
 
 **B.Com (Honours)** &nbsp;·&nbsp; St. Xavier's College, Ranchi &nbsp;·&nbsp; *Graduated 2024*
 
-> A commerce foundation means I understand business fundamentals — P&L, customer economics, market dynamics — that most CS-background analysts learn on the job.
+> A commerce foundation means I understand business fundamentals: P&L, customer economics, market dynamics that most CS-background analysts learn on the job.
 
 
 ---
@@ -159,7 +159,7 @@ What sets me apart isn't just knowing Python or Power BI - it's the ability to *
 
 I'm actively looking for **Data Analyst, Business Analyst, or Marketing Analyst** roles.
 
-If you're building something data-driven and need someone who combines technical skills with business thinking — let's talk.
+If you're building something data-driven and need someone who combines technical skills with business thinking, let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita2195/)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankita.z.2195@gmail.com)
@@ -171,9 +171,9 @@ If you're building something data-driven and need someone who combines technical
 
 ## ⚡ Fun Facts
 
-- 📐 I come from a **Commerce background** — which means I think about margins, CAC, LTV, and churn *before* I open a dataset
+- 📐 I come from a **Commerce background**, which means I think about margins, CAC, LTV, and churn *before* I open a dataset
 - 🔍 I'm the person who questions *why* a metric changed before assuming what the chart shows is the full story
-- 💬 I believe the most underrated data skill is **explaining your findings clearly** — and I've made it a priority
+- 💬 I believe the most underrated data skill is **explaining your findings clearly**, and I've made it a priority
 - 🌱 Currently building personal projects to explore **marketing analytics** and **A/B testing**
 - ☕ Best ideas come mid-coffee, right before a pivot table clicks into place
 
