@@ -116,43 +116,6 @@ What sets me apart isn't just knowing Python or Power BI, it's the ability to **
 
 ---
 
-## 💼 Experience
-
-### 📌 Data Analyst Intern: Internship Studio *(3 Months)*
-
-> Working on real-world retail data at scale.
-
-| What I Did | Impact |
-|---|---|
-| Processed & cleaned **500K+ retail transactions** using Python (Pandas, NumPy) | Production-quality, analysis-ready datasets |
-| Applied **3+ analytical techniques**: time-series, cohort analysis, RFM segmentation | Identified declining customer base & retention risks |
-| Built a **3-page Power BI report** on sales trends, engagement & retention | Enabled stakeholders to visualise key business metrics clearly |
-
-**Skills demonstrated:** Data wrangling at scale · Business-focused EDA · Dashboard storytelling · Stakeholder communication
-
----
-
-## 🏆 Certifications & Achievements
-
-| Certification | Issuer | Type |
-|---|---|---|
-| 🏅 Data Analytics Job Simulation | Deloitte Australia (Forage) | Industry Simulation |
-| 🏅 Excel Skills Job Simulation | JPMorgan Chase & Co. (Forage) | Industry Simulation |
-| 🏅 SQL (Advanced) | HackerRank | Verified Skill Badge |
-
-> 💡 *Deloitte & JPMorgan simulations involve solving real business problems, not just watching videos.*
-
----
-
-## 🎓 Education
-
-**B.Com (Honours)** &nbsp;·&nbsp; St. Xavier's College, Ranchi &nbsp;·&nbsp; *Graduated 2024*
-
-> A commerce foundation means I understand business fundamentals: P&L, customer economics, market dynamics that most CS-background analysts learn on the job.
-
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
