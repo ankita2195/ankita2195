@@ -21,7 +21,7 @@
 
 > *Most analysts have the tools. Fewer understand the business behind the numbers. I bring both.*
 
-I'm **Ankita**, a **2024 Commerce graduate turned Data Analyst** with hands-on experience turning messy, large-scale datasets into decisions that actually move the needle.
+I'm **Ankita**, a **Commerce graduate transitioning into Analytics** with hands-on experience turning messy, large-scale datasets into decisions that actually move the needle.
 
 What sets me apart isn't just knowing Python or Power BI, it's the ability to **think like a business stakeholder** while working like a data professional. I ask *why* the metric is falling before I reach for a chart and I communicate findings in plain language that non-technical teams can act on.
 
