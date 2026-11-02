@@ -92,8 +92,29 @@ What sets me apart isn't just knowing Python or Power BI, it's the ability to **
 [![View Project](https://img.shields.io/badge/📂_View_Project-6C63FF?style=for-the-badge)](https://github.com/ankita2195/E-Commerce-Sales-Analysis-Customer-Segmentation-Forecasting/blob/main/README.md)
 
 ---
+### 2. Marketing Funnel Analysis | Python & SQL
+> *Understanding where the customers are leaving the funnel*
 
-### 🏪 2. Retail Growth & Retention Analysis | Python & Power BI
+**The Problem:** A business had user activity spread across multiple tables but lacked a clear understanding of how users moved through the purchase journey, where they abandoned it, and which user segments had the lowest conversion rates.
+
+**What I Did:**
+- Analysed **90,400 users across 5 relational tables** using Python and SQL.
+- Built a user-level funnel model in SQL to track user progression and identify drop-off stages.
+- Conducted **Funnel Analysis** to calculate stage-wise conversion rates, abandonment rates, and user losses.
+- Compared funnel performance across **device types, gender, and monthly user groups** to identify segment-level differences.
+- Created reusable SQL views and validated analytical results against source data.
+
+**Impact:** Identified Payment → Confirmation as the stage with the highest abandonment (92.50%) and Search → Payment as the largest source of user loss (39,170 users). Also found that Desktop users converted at just 0.25% compared with 1.00% on Mobile, highlighting key areas for further investigation and conversion optimisation.
+
+**Tools used:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/📂_View_Project-6C63FF?style=for-the-badge)](https://github.com/ankita2195/Marketing-Funnel-Analysis-Python-SQL/blob/main/README.md)
+
+---
+
+### 🏪 3. Retail Growth & Retention Analysis | Python & Power BI
 > *Diagnosing a silent customer churn crisis with data*
 
 **The Problem:** A retail business had seemingly stable revenue but was bleeding customers without realising it.
