@@ -92,7 +92,7 @@ What sets me apart isn't just knowing Python or Power BI, it's the ability to **
 [![View Project](https://img.shields.io/badge/📂_View_Project-6C63FF?style=for-the-badge)](https://github.com/ankita2195/E-Commerce-Sales-Analysis-Customer-Segmentation-Forecasting/blob/main/README.md)
 
 ---
-### 2. Marketing Funnel Analysis | Python & SQL
+### 2. Website Conversion Funnel Analysis | Python & SQL
 > *Understanding where the customers are leaving the funnel*
 
 **The Problem:** A business had user activity spread across multiple tables but lacked a clear understanding of how users moved through the purchase journey, where they abandoned it, and which user segments had the lowest conversion rates.
