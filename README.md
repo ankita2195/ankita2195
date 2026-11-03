@@ -99,12 +99,12 @@ What sets me apart isn't just knowing Python or Power BI, it's the ability to **
 
 **What I Did:**
 - Analysed **90,400 users across 5 relational tables** using Python and SQL.
-- Built a user-level funnel model in SQL to track user progression and identify drop-off stages.
-- Conducted **Funnel Analysis** to calculate stage-wise conversion rates, abandonment rates, and user losses.
-- Compared funnel performance across **device types, gender, and monthly user groups** to identify segment-level differences.
-- Created reusable SQL views and validated analytical results against source data.
+- Built a user-level funnel model and reusable SQL views to track user progression and identify drop-off stages.
+- Conducted **Funnel Analysis** that revealed 92.50% abandonment at Payment → Confirmation and the largest user loss of 39,170 at Search → Payment.
+- Compared funnel performance across **device types, gender, and monthly user groups** uncovering conversion gap between Mobile (1.00%) and Desktop (0.25%).
+- Validated analytical results against source data and translated findings into targeted recommendations for checkout and desktop journey optimization.
 
-**Impact:** Identified Payment → Confirmation as the stage with the highest abandonment (92.50%) and Search → Payment as the largest source of user loss (39,170 users). Also found that Desktop users converted at just 0.25% compared with 1.00% on Mobile, highlighting key areas for further investigation and conversion optimisation.
+**Impact:** Revealed that the biggest conversion opportunity lies in improving the existing purchase journey rather than simply attracting more visitors. Provided a data-backed basis for prioritising critical funnel improvements and reducing potential revenue leakage.
 
 **Tools used:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
