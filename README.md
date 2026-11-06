@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00BCD4&height=200&section=header&text=Hi,%20I'm%20Ankita%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Business%20Decisions&descAlignY=60&descSize=18" width="100%"/>
+<!-- PROFESSIONAL ANALYTICS HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101B35,45:173B55,100:167D78&height=220&section=header&text=Ankita&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Business%20Decisions&descAlign=50&descAlignY=60&descSize=17" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Excel+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+Microsoft+Fabric;Business+Understanding+meets+Technical+Depth;Open+to+Entry-Level+Data+Analyst+%26+Business+Analyst+Roles)](https://git.io/typing-svg)
