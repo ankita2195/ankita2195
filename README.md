@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101B35,45:173B55,100:167D78&height=220&section=header&text=Ankita&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Business%20Decisions&descAlign=50&descAlignY=60&descSize=17" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Excel+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+Microsoft+Fabric;Business+Understanding+meets+Technical+Depth;Open+to+Entry-Level+Data+Analyst+%26+Business+Analyst+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A6FA5&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Excel+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+Microsoft+Fabric;Business+Understanding+meets+Technical+Depth;Open+to+Entry-Level+Data+Analyst+%26+Business+Analyst+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -151,19 +151,18 @@ If you're building something data-driven and need someone who combines technical
 
 ---
 
-## Fun Facts
+## Beyond the Numbers
 
-- I come from a **Commerce background**, which means I think about margins, CAC, LTV, and churn *before* I open a dataset
-- I'm the person who questions *why* a metric changed before assuming what the chart shows is the full story
-- I believe the most underrated data skill is **explaining your findings clearly**, and I've made it a priority
-- Currently building personal projects to explore **marketing analytics** and **A/B testing**
-- Best ideas come mid-coffee, right before a pivot table clicks into place
+- Coming from a **Commerce background**, I naturally look at margins, CAC, LTV and churn alongside the numbers
+- I tend to question why a metric changed before jumping to conclusions from a chart
+- I believe one of the most underrated analytical skills is communicating insights clearly and making them useful for business decisions
+- I enjoy the little moments when a complex dataset finally makes sense
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:6C63FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:167D78,45:173B55,100:101B35&height=120&section=footer" width="100%"/>
 
 *Thanks for visiting! If my work resonates, feel free to ⭐ a repo or drop a message.*
 
