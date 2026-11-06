@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 > *Most analysts have the tools. Fewer understand the business behind the numbers. I bring both.*
 
@@ -25,35 +25,33 @@ I'm **Ankita**, a **Commerce graduate transitioning into Analytics** with hands-
 
 What sets me apart isn't just knowing Python or Power BI, it's the ability to **think like a business stakeholder** while working like a data professional. I ask *why* the metric is falling before I reach for a chart and I communicate findings in plain language that non-technical teams can act on.
 
-- 🔍 Processed **500K+ retail transactions** during my internship at Internship Studio
-- 📊 Built end-to-end analytics pipelines: data cleaning → EDA → segmentation → forecasting → dashboards
-- 🎯 Applied **RFM segmentation**, **cohort analysis**, and **time-series forecasting** to real business problems
-- 💡 Strong foundation in **business acumen** from a B.Com (Hons.) background. I understand P&L, customer economics, and growth metrics
-- 🤝 Clear communicator; I translate data into stories for stakeholders, not just slides
-
-💼 **Open to Work- Data / Business / Marketing Analyst Roles**
+- Processed **500K+ retail transactions** during my internship at Internship Studio
+- Built end-to-end analytics pipelines: data cleaning → EDA → segmentation → forecasting → dashboards
+- Applied **RFM segmentation**, **cohort analysis**, and **time-series forecasting** to real business problems
+- Strong foundation in **business acumen** from a B.Com (Hons.) background. I understand P&L, customer economics, and growth metrics
+- Clear communicator; I translate data into stories for stakeholders, not just slides
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```text
-🔨 Building     →  End-to-end industry relevant analytics projects (Data Cleaning + EDA + Dashboards)
-📚 Learning     →  Advanced SQL, Statistics for A/B Testing, Data Engineering Basics
-🌱 Exploring    →  Marketing Analytics, Forecasting and Automation
+ Building     →  End-to-end industry relevant analytics projects (Data Cleaning + EDA + Dashboards)
+ Learning     →  Advanced SQL, Statistics for A/B Testing, Data Engineering Basics
+ Exploring    →  Marketing Analytics, Forecasting and Automation
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🐍 Languages & Analysis
+### Languages & Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Data & Visualization
+### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -61,15 +59,15 @@ What sets me apart isn't just knowing Python or Power BI, it's the ability to **
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🧰 Tools & Workflow
+### Tools & Workflow
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 1. E-Commerce Sales, Customer Segmentation & Forecasting Analysis
+### 1. E-Commerce Sales, Customer Segmentation & Forecasting Analysis
 > *Transforming 9,994+ transactions into data-driven growth strategies*
 
 **The Problem:** A business had mountains of transactional data but no clarity on *who* their customers were, *which* is the best-selling product category, or *how* their sales trends evolve overtime.
@@ -114,7 +112,7 @@ What sets me apart isn't just knowing Python or Power BI, it's the ability to **
 
 ---
 
-### 🏪 3. Retail Growth & Retention Analysis | Python & Power BI
+### 3. Retail Growth & Retention Analysis | Python & Power BI
 > *Diagnosing a silent customer churn crisis with data*
 
 **The Problem:** A retail business had seemingly stable revenue but was bleeding customers without realising it.
@@ -137,7 +135,7 @@ What sets me apart isn't just knowing Python or Power BI, it's the ability to **
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -153,13 +151,13 @@ If you're building something data-driven and need someone who combines technical
 
 ---
 
-## ⚡ Fun Facts
+## Fun Facts
 
-- 📐 I come from a **Commerce background**, which means I think about margins, CAC, LTV, and churn *before* I open a dataset
-- 🔍 I'm the person who questions *why* a metric changed before assuming what the chart shows is the full story
-- 💬 I believe the most underrated data skill is **explaining your findings clearly**, and I've made it a priority
-- 🌱 Currently building personal projects to explore **marketing analytics** and **A/B testing**
-- ☕ Best ideas come mid-coffee, right before a pivot table clicks into place
+- I come from a **Commerce background**, which means I think about margins, CAC, LTV, and churn *before* I open a dataset
+- I'm the person who questions *why* a metric changed before assuming what the chart shows is the full story
+- I believe the most underrated data skill is **explaining your findings clearly**, and I've made it a priority
+- Currently building personal projects to explore **marketing analytics** and **A/B testing**
+- Best ideas come mid-coffee, right before a pivot table clicks into place
 
 ---
 
