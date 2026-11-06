@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00BCD4&height=200&section=header&text=Hi,%20I'm%20Ankita%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Business%20Decisions&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Business+Understanding+meets+Technical+Depth;Open+to+Data+%7C+Business+%7C+Marketing+Analyst+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Excel+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+Microsoft+Fabric;Business+Understanding+meets+Technical+Depth;Open+to+Entry-Level+Data+Analyst+%26+Business+Analyst+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -141,7 +141,7 @@ What sets me apart isn't just knowing Python or Power BI, it's the ability to **
 
 <div align="center">
 
-I'm actively looking for **Data Analyst, Business Analyst, or Marketing Analyst** roles.
+I'm actively looking for **Entry-Level Data Analyst and Business Analyst** roles.
 
 If you're building something data-driven and need someone who combines technical skills with business thinking, let's talk.
 
